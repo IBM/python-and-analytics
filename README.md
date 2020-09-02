@@ -1,2 +1,1 @@
-# python-and-analytics
-workshop for Python and Analyticas
+# Python and Analytics
