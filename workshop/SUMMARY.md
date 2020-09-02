@@ -6,7 +6,7 @@
 
 ## Pandas
 
-* [Using Pythonb Pandas for Data Science](python-pandas/README.md)
+* [Using Python Pandas for Data Science](python-pandas/README.md)
 
 ## Resources
 
