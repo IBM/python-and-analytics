@@ -1,5 +1,9 @@
 # Summary
 
+## Project setup
+
+* [Perform the steps to setup your project](project-setup/README.md)
+
 ## Python 3
 
 * [Getting started with Python3](python3/README.md)
