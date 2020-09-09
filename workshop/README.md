@@ -8,6 +8,7 @@ Welcome to our workshop! In this workshop we'll be using Jupyter notebooks to le
 | - | - |
 | [Getting started with Python3](python3/README.md) | Learn the basics of Python |
 | [Using Python Pandas for Data Science](python-pandas/README.md) | Use Pandas for data visualisation |
+| [Using Pandas DataFrames](work-with-dataframe/README.md) | Use a Pandas DataFrame |
 
 ## Compatability
 
