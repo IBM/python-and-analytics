@@ -10,16 +10,6 @@ In this workshop, we will learn how to:
 
 If you have not already done so, make sure that you do the work for your [project setup](../project-setup/README.md)
 
-## Load data
-
-* In your project, click `Add to project` and choose `Data`:
-
-![Add data](../.gitbook/assets/images/setup/cpd-add-data.png)
-
-* Navigate to where you cloned this repository when you [setup the project](../project-setup/README.md) and load `data/cfpbciti.csv`:
-
-![Add cfpbciti.csv](../.gitbook/assets/images/setup/cpd-add-notebook.png)
-
 ## Load and Run a Notebook
 
 * In your project, click `Add to project` and choose `Notebook`:
