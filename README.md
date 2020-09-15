@@ -36,7 +36,3 @@ Now let's make sure you can access the Developer Portal page for your company. T
 #### 3. Gitbook access Check
 
 Next, let's make sure we can see the workshop instructions. For that, navigate to the [gitbook webpage](https://ibm-developer.gitbook.io/python-and-analytics/) for this workshop and ensure that you can see the instructions.
-
-#### 4. Github page access check
-
-Finally, let's make sure you can clone the Github repo of this workshop. Navigage to the [Github Repository for this workshop](https://github.ibm.com/IBMDeveloper/python-and-analytics), and make sure that the page opens up successfully and not blocked by your firewall.
