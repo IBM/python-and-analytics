@@ -13,13 +13,13 @@ a_string.lower()
 # 7.1.5 Notice that the methods called have not actually modified the string
 a_string
 
-# 7.1.6 Count number of occurences of a substring in the string
+# 7.1.6 Count number of occurences of the substring 'i' in the string
 a_string.count('i')
 
-# 7.1.7 Count number of occurences of a substring in the string after a certain position
+# 7.1.7 Count number of occurences of the substring 'i' in the string after a certain position
 a_string.count('i', 7)
 
-# 7.1.8 Count number of occurences of a substring in the string
+# 7.1.8 Count number of occurences of the substring 'is' in the string
 a_string.count('is')
 
 # 7.1.9 Does the string start with 'this'?
