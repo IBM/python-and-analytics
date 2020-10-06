@@ -48,6 +48,10 @@ Now that we've seen how Natural Language Understanding and Sentiment Analysis wo
 
 ## Load and Run a Notebook
 
+* Go to your project on [Cloud Pak for Data as a Service](dataplatform.ibm.com)
+
+![Select projects](../.gitbook/assets/images/setup/cpd-create-project.png)
+
 * In your project, click `Add to project` and choose `Notebook`:
 
 ![Add notebook](../.gitbook/assets/images/setup/cpd-add-notebook.png)
