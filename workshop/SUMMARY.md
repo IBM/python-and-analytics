@@ -15,7 +15,8 @@
 
 ## Natural Language Understanding and Sentiment Analysis
 
-* [
+* [Using Watson Natural Language Understanding to analyze sentiment](natural-language-understanding/README.md)
+
 ## Resources
 
 * [Watson Studio](https://dataplatform.cloud.ibm.com)
