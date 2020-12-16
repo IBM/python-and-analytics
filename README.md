@@ -46,10 +46,6 @@ Navigate to the [CP4DaaS webpage](https://dataplatform.cloud.ibm.com/) and make 
 
 Now let's make sure you can access the Developer Portal page for your company. To test that, navigate to the [Developer Portal webpage](https://developer.ibm.com/portals/<my_company>/) and confirm you can see the page.
 
-#### 3. Gitbook access Check
-
-Next, let's make sure we can see the workshop instructions. For that, navigate to the [gitbook webpage](https://ibm-developer.gitbook.io/python-and-analytics/) for this workshop and ensure that you can see the instructions.
-
 ## Compatability
 
 This workshop has been tested on [IBM Watson Studio and Cloud Pak for Data as a Service](dataplatform.cloud.ibm.com)
