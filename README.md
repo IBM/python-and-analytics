@@ -8,14 +8,15 @@ This workshop is hosted on https://ibm.github.io/python-and-analytics/
 
 This is designed for 1 90-minute session.
 
-Topic | Time
-Welcome | 00:05
-Participant Background | 00:05
-Basics of Python, Jupyter, and Pandas | 00:10
-Hands-on workshop: Python 3 and Jupyter notebook | 00:25
-Hands-on workshop: Using Pandas and Jupyter notebook | 00:30
-Hands-on workshop: Using Pandas DataFrames | 00:10
-Wrap Up | 00:05
+| Topic | Time |
+| - | - |
+| Welcome | 00:05 |
+| Participant Background | 00:05 |
+| Basics of Python, Jupyter, and Pandas | 00:10 |
+| Hands-on workshop: Python 3 and Jupyter notebook | 00:25
+| Hands-on workshop: Using Pandas and Jupyter notebook | 00:30 |
+| Hands-on workshop: Using Pandas DataFrames | 00:10 |
+| Wrap Up | 00:05 |
 
 ### Pre-workshop checks
 
@@ -30,7 +31,3 @@ Navigate to the [CP4DaaS webpage](https://dataplatform.cloud.ibm.com/) and make 
 #### 2. Developer Portal access Check
 
 Now let's make sure you can access the Developer Portal page for your company. To test that, navigate to the [Developer Portal webpage](https://developer.ibm.com/portals/<my_company>/) and confirm you can see the page.
-
-#### 3. Gitbook access Check
-
-Next, let's make sure we can see the workshop instructions. For that, navigate to the [gitbook webpage](https://ibm-developer.gitbook.io/python-and-analytics/) for this workshop and ensure that you can see the instructions.
