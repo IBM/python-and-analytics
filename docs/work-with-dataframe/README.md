@@ -14,11 +14,11 @@ If you have not already done so, make sure that you do the work for your [projec
 
 * In your project, click `Add to project` and choose `Notebook`:
 
-![Add notebook](../.gitbook/assets/images/setup/cpd-add-notebook.png)
+![Add notebook](../assets/images/setup/cpd-add-notebook.png)
 
 * Choose New notebook `From URL`. Give your notebook a name and copy the URL `https://github.com/IBM/python-and-analytics/blob/master/notebooks/work-with-data-frames.ipynb`. Click `Create`:
 
-![Notebook from URL](../.gitbook/assets/images/setup/cpd-notebook-from-url.png)
+![Notebook from URL](../assets/images/setup/cpd-notebook-from-url.png)
 
 Spend some time looking through the sections of the notebook to get an overview. A notebook is composed of text (markdown or heading) cells and code cells. The markdown cells provide comments on what the code is designed to do.
 
