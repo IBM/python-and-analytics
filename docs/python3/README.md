@@ -1,21 +1,9 @@
-# Data analysis in Python using pandas
+# Learning Python3
 
-**Pandas** is an open source Python Library that provides high-performance data manipulation and analysis. With the combination of Python and pandas, you can accomplish five typical steps in the processing and analysis of data, regardless of the origin of data: load, prepare, manipulate, model, and analyze.
+You might think that **Python** is only for developers and people with computer science degrees. However, Python is great for beginners, even those with little coding experience because it’s free, open source, and runs on any platform. The Python packages documentation is great, and after an [introductory course](https://cognitiveclass.ai/learn/data-science-with-python), you have a good foundation to build on.
 
-There are many options when working with the data using pandas. The following list shows some of the things that can be done using pandas.
+Python is a general purpose and high-level programming language that is used for more than working with data. For example, it’s good for developing desktop GUI applications, websites, and web applications. However, this tutorial focuses on the data and only goes through getting started with data.
 
-* Cleaning data by removing or replacing missing values
-* Converting data formats
-* Sorting rows
-* Deleting or adding rows and columns
-* Merging or joining DataFrames
-* Summarizing data by pivoting or reshaping
-* Creating visualizations
-
-This list is far from complete. See the pandas [documentation](https://pandas.pydata.org/docs/) for more of what you can do.
-
-This workshop walks you though some of the most interesting features of pandas using structured data that contains information about the boroughs in London. You can download the data used in the tutorial from [data.gov.uk](https://data.gov.uk/dataset/248f5f04-23cf-4470-9216-0d0be9b877a8/london-borough-profiles-and-atlas).
- 
 ## Getting Started with Jupyter Notebooks
 
 Instead of writing code in a text file and then running the code with a Python command in the terminal, you can do all of your data analysis in one place. Code, output, tables, and charts can all be edited and viewed in one window in any web browser with [Jupyter Notebooks](https://jupyter.org/). As the name suggests, this is a notebook to keep all of your ideas and data explorations in one place. In this tutorial, you use [IBM Watson Studio](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/overview-ws.html) to run a notebook. For this, you need a free IBM Cloud account. The following steps show you how sign up and get started. When you have the notebook up and running, you can go through the notebook.
@@ -30,11 +18,11 @@ If you have not already done so, make sure that you do the work for your [projec
 
 * In your project, click `Add to project` and choose `Notebook`:
 
-![Add notebook](../.gitbook/assets/images/setup/cpd-add-notebook.png)
+![Add notebook](../assets/images/setup/cpd-add-notebook.png)
 
-* Choose New notebook `From URL`. Give your notebook a name and copy the URL `https://github.com/IBM/python-and-analytics/blob/master/notebooks/UK-workshop-pandas.ipynb`. Click `Create`:
+* Choose New notebook `From URL`. Give your notebook a name and copy the URL `https://github.com/IBM/python-and-analytics/blob/master/notebooks/learning-python-3.ipynb`. Click `Create`:
 
-![Notebook from URL](../.gitbook/assets/images/setup/cpd-notebook-from-url.png)
+![Notebook from URL](../assets/images/setup/cpd-notebook-from-url.png)
 
 Spend some time looking through the sections of the notebook to get an overview. A notebook is composed of text (markdown or heading) cells and code cells. The markdown cells provide comments on what the code is designed to do.
 
