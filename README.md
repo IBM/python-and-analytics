@@ -1,10 +1,8 @@
 # Python and Analytics
 
-This is a workshop to demonstrate basic Python for AI using Pandas and
-Jupyter notebooks.
+This is a workshop to demonstrate basic Python for AI using Pandas and Jupyter notebooks.
 
-The gitbook for the workshop is hosted at:
-`https://ibm-developer.gitbook.io/python-and-analytics/`
+This workshop is hosted on https://ibm.github.io/python-and-analytics/
 
 ## Sample agenda
 
