@@ -11,13 +11,8 @@ This is designed for 1 90-minute session.
 | Topic | Time |
 | - | - |
 | Welcome | 00:05 |
-| Participant Background | 00:05 |
 | Basics of Python, Jupyter, and Pandas | 00:10 |
 | Hands-on workshop: Python 3 and Jupyter notebook | 00:25
-| Hands-on workshop: Using Pandas and Jupyter notebook | 00:30 |
-| Hands-on workshop: Using Pandas DataFrames | 00:10 |
-| Wrap Up | 00:05 |
-
 ### Pre-workshop checks
 
 Let's make sure you're ready to go for the workshop.

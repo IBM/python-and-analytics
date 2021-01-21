@@ -8,15 +8,6 @@
 
 * [Getting started with Python3](python3/README.md)
 
-## Pandas
-
-* [Using Python Pandas for Data Science](python-pandas/README.md)
-* [Using Pandas DataFrames](work-with-dataframe/README.md)
-
-## Natural Language Understanding and Sentiment Analysis
-
-* [Using Watson Natural Language Understanding to analyze sentiment](natural-language-understanding/README.md)
-
 ## Resources
 
 * [Watson Studio](https://dataplatform.cloud.ibm.com)
