@@ -17,6 +17,12 @@
 
 * [Using Watson Natural Language Understanding to analyze sentiment](natural-language-understanding/README.md)
 
+
+## Titanic DataScience Study
+
+* [DataScience through Titanic Dataset](titanic/README.md)
+
+
 ## Resources
 
 * [Watson Studio](https://dataplatform.cloud.ibm.com)
