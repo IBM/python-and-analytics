@@ -71,11 +71,11 @@ A: In some rare cases, the services may not automatically provision for you. You
   
   2. If the `Machine Learning` service instance is not listed under `You Cloud Pak for Data Services` then find it in the `Try our Available Services` section and click on the `Add` button. 
 
-  ![CPDaaS WML instance add](../../assets/images/setup/cpdaas-wml-instance-add.png)
+  ![CPDaaS WML instance add](../assets/images/setup/cpdaas-wml-instance-add.png)
 
   1.  Next, note down the name of the `Machine Learning` service instance in your `Cloud Pak for Data` section. This is the blue hyperlink underneeth the `Machine Learning` card title. You will need to provide this name in future steps.
 
-  ![CPDaaS WML instance name](../../assets/images/setup/cpdaas-wml-instance-name.png)
+  ![CPDaaS WML instance name](../assets/images/setup/cpdaas-wml-instance-name.png)
 
 **Q2: I get the `That email address is already registered to an IBM Cloud account.` messsage.**
 
