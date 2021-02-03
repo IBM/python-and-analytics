@@ -16,7 +16,7 @@ If you have not already done so, make sure that you do the work for your [projec
 
 * Click on the *Navigation Menu* in the upper-left corner of your [Cloud Pak for Data as a Service](https://dataplatform.cloud.ibm.com/) instance and then click `Services` -> `Services catalog`: 
 
-![CPDaaS Navigation Menu Services catalog(../.gitbook/assets/images/nlu/nlu-cpdaas-service-catalog.png)
+![CPDaaS Navigation Menu Services catalog(../assets/images/nlu/nlu-cpdaas-service-catalog.png)
 
 * Type *Natural Language Understanding* in the search bar (the smart search will narrow down the choices as you type) and then click on the tile for `Natural Language Understanding`:
 
@@ -26,19 +26,15 @@ If you have not already done so, make sure that you do the work for your [projec
 
 * You will see your newly created NLU instance on the *Services instances* page. Click on the name to open the page for this NLU instance:
 
-![Newly created NLU Service insance](../.gitbook/assets/images/nlu/nlu-new-service-created.png)
+![Newly created NLU Service insance](../assets/images/nlu/nlu-new-service-created.png)
 
 * Either click on the `Credentials` tab of click on `View service credentials` to navigate to the *Credentials* page:
 
-![Service Credentials page](../.gitbook/assets/images/nlu/nlu-view-credentials.png)
+![Service Credentials page](../assets/images/nlu/nlu-view-credentials.png)
 
-<<<<<<< HEAD:workshop/natural-language-understanding/README.md
 * Click on `Create Credentials`. Next, click on the "down arrow" to view the newly created credentials. In the image below, you will see that I have obscured both the *apikey* and the *url*. You will need these later, so either copy them to a text document, or leave this tab open:
-=======
-![NLU credentials](../assets/images/nlu/nlu-get-credentials.png)
->>>>>>> 30332e6... make mkdocs compliant:docs/natural-language-understanding/README.md
 
-![Credentials with apikey and url](../.gitbook/assets/images/nlu/nlu-copy-apikey.png)
+![Credentials with apikey and url](../assets/images/nlu/nlu-copy-apikey.png)
 
 Note that you can access the [Getting started tutorial](https://cloud.ibm.com/docs/services/natural-language-understanding?topic=natural-language-understanding-getting-started#getting-started-tutorial) and the [API reference](https://cloud.ibm.com/apidocs/natural-language-understanding) from the NLU Service instance *Overview* tab. You may wish to look at these for a more in-depth investigation of Watson Natural Language Understanding.
 
