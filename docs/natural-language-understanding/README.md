@@ -14,19 +14,29 @@ If you have not already done so, make sure that you do the work for your [projec
 
 ## Create a Watson NLU instance
 
-* Navigate to the [IBM Cloud Catalog](https://cloud.ibm.com/catalog#services) and in the search bar, type "Natural Language Understanding":
+* Click on the *Navigation Menu* in the upper-left corner of your [Cloud Pak for Data as a Service](https://dataplatform.cloud.ibm.com/) instance and then click `Services` -> `Services catalog`: 
+
+![CPDaaS Navigation Menu Services catalog(../assets/images/nlu/nlu-cpdaas-service-catalog.png)
+
+* Type *Natural Language Understanding* in the search bar (the smart search will narrow down the choices as you type) and then click on the tile for `Natural Language Understanding`:
 
 ![IBM Cloud Natural Language Understanding](../assets/images/nlu/nlu-find-in-catalog.png)
 
-* Choose the free `Lite` plan (unless your organization has already provisioned 1 instance of the `Lite` plan, in which case your subsequent plans would need to be on a paid tier). Give the service a meaningful name anc click `Create`.
+* Choose the free `Lite` plan (unless your organization has already provisioned 1 instance of the `Lite` plan, in which case your subsequent plans would need to be on a paid tier). Give the service a meaningful name and click `Create`.
 
-* In your newly created instance of NLU you will see the *API Key* and *URL* under `Credentials`.
+* You will see your newly created NLU instance on the *Services instances* page. Click on the name to open the page for this NLU instance:
 
-![NLU credentials](../assets/images/nlu/nlu-get-credentials.png)
+![Newly created NLU Service insance](../assets/images/nlu/nlu-new-service-created.png)
 
-Either keep this tab open to access the *API Key* and *URL* later, or copy them to a file now.
+* Either click on the `Credentials` tab of click on `View service credentials` to navigate to the *Credentials* page:
 
-Note that you can access the [Getting started tutorial](https://cloud.ibm.com/docs/services/natural-language-understanding?topic=natural-language-understanding-getting-started#getting-started-tutorial) and the [API reference](https://cloud.ibm.com/apidocs/natural-language-understanding) from here. You may wish to look at these for a more in-depth investigation of Watson Natural Language Understanding.
+![Service Credentials page](../assets/images/nlu/nlu-view-credentials.png)
+
+* Click on `Create Credentials`. Next, click on the "down arrow" to view the newly created credentials. In the image below, you will see that I have obscured both the *apikey* and the *url*. You will need these later, so either copy them to a text document, or leave this tab open:
+
+![Credentials with apikey and url](../assets/images/nlu/nlu-copy-apikey.png)
+
+Note that you can access the [Getting started tutorial](https://cloud.ibm.com/docs/services/natural-language-understanding?topic=natural-language-understanding-getting-started#getting-started-tutorial) and the [API reference](https://cloud.ibm.com/apidocs/natural-language-understanding) from the NLU Service instance *Overview* tab. You may wish to look at these for a more in-depth investigation of Watson Natural Language Understanding.
 
 ## Demonstration of Watson NLU and Sentiment Analysis
 
