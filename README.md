@@ -1,10 +1,8 @@
 # Python and Analytics
 
-This is a workshop to demonstrate basic Python for AI using Pandas and
-Jupyter notebooks.
+This is a workshop to demonstrate basic Python for AI using Pandas and Jupyter notebooks.
 
-The gitbook for the workshop is hosted at:
-`https://ibm-developer.gitbook.io/python-and-analytics/`
+This workshop is hosted on https://ibm.github.io/python-and-analytics/
 
 ## Sample agenda
 
@@ -47,10 +45,6 @@ Navigate to the [CP4DaaS webpage](https://dataplatform.cloud.ibm.com/) and make 
 #### 2. Developer Portal access Check
 
 Now let's make sure you can access the Developer Portal page for your company. To test that, navigate to the [Developer Portal webpage](https://developer.ibm.com/portals/<my_company>/) and confirm you can see the page.
-
-#### 3. Gitbook access Check
-
-Next, let's make sure we can see the workshop instructions. For that, navigate to the [gitbook webpage](https://ibm-developer.gitbook.io/python-and-analytics/) for this workshop and ensure that you can see the instructions.
 
 ## Compatability
 

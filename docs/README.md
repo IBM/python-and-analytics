@@ -29,6 +29,6 @@ Welcome to our workshop! In this workshop we'll be using Jupyter notebooks to le
 | Wrap up  | Review and Reflect on the workshop | 00:05 |
 ## Compatability
 
-This workshop has been tested on [IBM Watson Studio and Cloud Pak for Data as a Service](dataplatform.cloud.ibm.com)
+This workshop has been tested on [IBM Watson Studio and Cloud Pak for Data as a Service](https://dataplatform.cloud.ibm.com)
 
 The notebooks use `Python 3.6.9`.
