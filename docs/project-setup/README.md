@@ -2,8 +2,10 @@
 
 This part of the workshop is to provide basic setup for your project on Cloud Pak for Data as a Service.
 
-1. [Sign up for IBM Cloud Pak for Data as a service](#1-sign-up-for-ibm-cloud-pak-for-data-as-a-service)
-1. [Setup a project](#2-project-setup)
+- [Project setup](#project-setup)
+  - [1. Sign up for IBM Cloud Pak for Data as a service](#1-sign-up-for-ibm-cloud-pak-for-data-as-a-service)
+  - [2. Project setup](#2-project-setup)
+- [FAQ](#faq)
 
 ## 1. Sign up for IBM Cloud Pak for Data as a service
 
@@ -58,6 +60,30 @@ In Cloud Pak for Data, we use the concept of a project to collect / organize the
 * Once the project is succesfully created you will be brought to the project overview page (*Note:You may be presented with a project tour pop up window, go ahead and close it*)
 
 ![Import project success](../assets/images/setup/project-create-success.png)
+
+# FAQ
+ 
+**Q1: I don't have all the services needed.**
+
+A: In some rare cases, the services may not automatically provision for you. You can do that manually by following these instructions:
+
+  1. Once you are on IBM Cloud Pak for Data, on the top right corner click on your avatar, and then click on `Profile and settings`. Go to the `Services` tab.
+  
+  2. If the `Machine Learning` service instance is not listed under `You Cloud Pak for Data Services` then find it in the `Try our Available Services` section and click on the `Add` button. 
+
+![CPDaaS WML instance add](../assets/images/setup/cpdaas-wml-instance-add.png)
+
+  1.  Next, note down the name of the `Machine Learning` service instance in your `Cloud Pak for Data` section. This is the blue hyperlink underneeth the `Machine Learning` card title. You will need to provide this name in future steps.
+
+![CPDaaS WML instance name](../assets/images/setup/cpdaas-wml-instance-name.png)
+
+**Q2: I get the `That email address is already registered to an IBM Cloud account.` messsage.**
+
+A: You must already have an IBMid account. Follow the login link provided in the error message to login to your existing account. 
+
+**Q3: I get the `Your Watson Studio, Watson Knowledge Catalog, and Watson Machine Learning Lite services must be created in the same service region.` error.**
+
+A: This means you have previously created some Watson services in a different region. To resolve this, go to the [CP4DaaS Login](https://dataplatform.cloud.ibm.com/registration/stepone?context=cpdaas&apps=all) page, select the region you had previously used and then login using the login link at the bottom right. Alternatively, you can create a new account and proceed as a new user to follow along.
 
 ## Conclusion
 
