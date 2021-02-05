@@ -67,15 +67,13 @@ In Cloud Pak for Data, we use the concept of a project to collect / organize the
 
 A: In some rare cases, the services may not automatically provision for you. You can do that manually by following these instructions:
 
-  1. Once you are on IBM Cloud Pak for Data, on the top right corner click on your avatar, and then click on `Profile and settings`. Go to the `Services` tab.
-  
-  2. If the `Machine Learning` service instance is not listed under `You Cloud Pak for Data Services` then find it in the `Try our Available Services` section and click on the `Add` button. 
+* Go the (☰) navigation menu on the top left corner of the Cloud Pak for Data UI. Expand *Services* and then click on `Service instances`.
 
-![CPDaaS WML instance add](../assets/images/setup/cpdaas-wml-instance-add.png)
+* If you do not have an instance of *Watson Machine Learning*, or any service that you need, click on the `Add service +` button.
 
-  1.  Next, note down the name of the `Machine Learning` service instance in your `Cloud Pak for Data` section. This is the blue hyperlink underneeth the `Machine Learning` card title. You will need to provide this name in future steps.
+* Search or scroll until you find the tile for *Machine Learning*,or whichever service you need, and click on it.
 
-![CPDaaS WML instance name](../assets/images/setup/cpdaas-wml-instance-name.png)
+* Choose the same region as you chose for your Cloud Pak for Data as a Service platform, select the *Free* tier unless your organization has already used their 1 free tier, change the name and add tags if you like. The *Default* resource group should be correct, and then click `Create`.
 
 **Q2: I get the `That email address is already registered to an IBM Cloud account.` messsage.**
 
