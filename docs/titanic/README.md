@@ -10,7 +10,10 @@ Unlike many other notebooks that are written by the experts for the experts, thi
 
 ![Add notebook](../assets/images/setup/cpd-add-notebook.png)
 
-* Choose New notebook `From URL`. Give your notebook a name and copy the URL `https://github.com/IBM/python-and-analytics/blob/master/notebooks/Titanic.ipynb`. Click `Create`:
+* Choose New notebook `From URL`. Give your notebook a name, select the smallest runtime, copy the following URL, and click `Create. 
+```
+https://github.com/IBM/python-and-analytics/blob/workshop-feb-2021/notebooks/Titanic.ipynb
+```
 
 ![Notebook from URL](../assets/images/titanic/notebook-from-url.jpg)
 
