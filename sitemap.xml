@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
+     <loc>https://ibm.github.io/python-and-analytics/</loc>
+     <lastmod>2021-02-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://ibm.github.io/python-and-analytics/project-setup/</loc>
+     <lastmod>2021-02-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://ibm.github.io/python-and-analytics/python3/</loc>
+     <lastmod>2021-02-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://ibm.github.io/python-and-analytics/python-pandas/</loc>
+     <lastmod>2021-02-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://ibm.github.io/python-and-analytics/work-with-dataframe/</loc>
+     <lastmod>2021-02-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://ibm.github.io/python-and-analytics/natural-language-understanding/</loc>
+     <lastmod>2021-02-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://ibm.github.io/python-and-analytics/resources/</loc>
+     <lastmod>2021-02-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+</urlset>
