@@ -12,13 +12,6 @@
 
 * [DataScience through Titanic Dataset](titanic/README.md)
 
-
-
-## Titanic DataScience Study
-
-* [DataScience through Titanic Dataset](titanic/README.md)
-
-
 ## Resources
 
 * [Watson Studio](https://dataplatform.cloud.ibm.com)
