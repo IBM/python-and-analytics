@@ -8,6 +8,7 @@ Welcome to our workshop! In this workshop we'll be using Jupyter notebooks to le
 | - | - |
 | [Project setup](project-setup/README.md) | Setup your project for the workshop |
 | [Getting started with Python3](python3/README.md) | Learn the basics of Python |
+| [Titanic DataScience Study](titanic//README.md) | Learn the basics of Python |
 
 ## Compatability
 
