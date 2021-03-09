@@ -12,6 +12,10 @@
 
 * [DataScience through Titanic Dataset](titanic/README.md)
 
+## Titanic DataScience Study
+
+* [Heart Disease Prediction Hackathon](heart-disease-competition/README.md)
+
 ## Resources
 
 * [Watson Studio](https://dataplatform.cloud.ibm.com)
