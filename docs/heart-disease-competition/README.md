@@ -19,7 +19,7 @@ Remember: Your best tool to figure out how to perform the idea you have in mind 
 https://github.com/IBM/python-and-analytics/blob/workshop-feb-2021/notebooks/heart-disease-competition.ipynb
 ```
 
-![Notebook from URL](../assets/images/titanic/notebook-from-url.jpg)
+![Notebook from URL](../assets/images/heart-disease/notebook-from-url.jpg)
 
 Spend some time looking through the sections of the notebook to get an overview. A notebook is composed of text (markdown or heading) cells and code cells. The markdown cells provide comments on what the code is designed to do.
 

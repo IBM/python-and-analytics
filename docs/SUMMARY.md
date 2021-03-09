@@ -4,17 +4,14 @@
 
 * [Perform the steps to setup your project](project-setup/README.md)
 
-## Python 3
+## Python  Basics
 
 * [Getting started with Python3](python3/README.md)
 
-## Titanic DataScience Study
+## Data Science Basics
 
-* [DataScience through Titanic Dataset](titanic/README.md)
-
-## Titanic DataScience Study
-
-* [Heart Disease Prediction Hackathon](heart-disease-competition/README.md)
+* [Case-Study: DataScience through Titanic](titanic/README.md)
+* [Hackathon: Heart Disease Prediction ](heart-disease-competition/README.md)
 
 ## Resources
 
