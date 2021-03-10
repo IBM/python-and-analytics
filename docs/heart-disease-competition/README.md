@@ -10,7 +10,11 @@ Remember: Your best tool to figure out how to perform the idea you have in mind 
 
 ## Load and Run a Notebook
 
-* In your project, click `Add to project` and choose `Notebook`:
+* Log in to [Cloud Pak for Data as a Service](https://dataplatform.cloud.ibm.com/)
+
+* Select your project from the `Projects` section of the hamburger menu (☰)
+
+* In your project, click `Add to project` and choose `Notebook`
 
 ![Add notebook](../assets/images/setup/cpd-add-notebook.png)
 
